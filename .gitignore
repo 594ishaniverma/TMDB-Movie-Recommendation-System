@@ -1,0 +1,22 @@
+# Python & Virtual Environments
+__pycache__/
+venv/
+env/
+.venv/
+anaconda3/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Datasets and Large ML Models (CRITICAL)
+*.csv
+*.tsv
+*.pkl
+*.h5
+*.model
+models/
+data/
+
+# OS Files
+.DS_Store
+Thumbs.db
